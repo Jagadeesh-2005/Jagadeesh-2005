@@ -16,7 +16,7 @@ I am a B.Tech student pursuing Artificial Intelligence and Machine Learning at V
 
 * Email: jagadeeshthungala@gmail.com
 * LinkedIn: https://www.linkedin.com/in/tungala-jagadeesh-0216b1336/
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/Jagadeesh-2005
 
 ## ✨ Personal Motto
 

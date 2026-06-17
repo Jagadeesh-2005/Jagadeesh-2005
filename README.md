@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Jagadeesh
 
-<!--
-**Jagadeesh-2005/Jagadeesh-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I am a B.Tech student pursuing Artificial Intelligence and Machine Learning at Vasireddy Venkatadri Institute of Technology (VVIT). I am passionate about learning new technologies, solving problems, and continuously improving my knowledge through practical experience and hands-on learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently
+
+* Pursuing B.Tech in Artificial Intelligence and Machine Learning
+* Exploring new technologies and industry trends
+* Building my knowledge through continuous learning
+* Seeking opportunities to learn, collaborate, and grow
+
+
+## 📫 How to Reach Me
+
+* Email: jagadeeshthungala@gmail.com
+* LinkedIn: https://www.linkedin.com/in/tungala-jagadeesh-0216b1336/
+* GitHub: https://github.com/your-username
+
+## ✨ Personal Motto
+
+"Stay curious, keep learning, and never stop growing."
+
+Thank you for visiting my profile!

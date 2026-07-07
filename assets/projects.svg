@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#050816"/>
+<stop offset="100%" stop-color="#111827"/>
+</linearGradient>
+
+<linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#1E293B"/>
+<stop offset="100%" stop-color="#0F172A"/>
+</linearGradient>
+
+<filter id="glow">
+<feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#00F5FF"/>
+</filter>
+
+<style><![CDATA[
+.title{
+fill:#00F5FF;
+font-size:40px;
+font-family:Segoe UI;
+font-weight:bold;
+}
+
+.head{
+fill:white;
+font-size:24px;
+font-family:Segoe UI;
+font-weight:bold;
+}
+
+.desc{
+fill:#CBD5E1;
+font-size:17px;
+font-family:Segoe UI;
+}
+]]></style>
+
+</defs>
+
+<rect width="1200" height="750" fill="url(#bg)"/>
+
+<text x="600" y="70" text-anchor="middle" class="title">
+Featured Projects
+</text>
+
+<!-- Card 1 -->
+
+<rect x="80" y="130" width="480" height="220" rx="18"
+fill="url(#card)"
+stroke="#00F5FF"
+stroke-width="2"
+filter="url(#glow)">
+
+<animate attributeName="stroke" values="#00F5FF;#FF00FF;#00F5FF"
+dur="4s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<text x="110" y="180" class="head">
+🤖 AI Interview Coach
+</text>
+
+<text x="110" y="220" class="desc">
+• Resume Analysis
+</text>
+
+<text x="110" y="250" class="desc">
+• AI Generated Questions
+</text>
+
+<text x="110" y="280" class="desc">
+• Feedback &amp; ATS Score
+</text>
+
+<text x="110" y="320" fill="#22C55E">
+Python • Flask • Gemini
+</text>
+
+<!-- Card 2 -->
+
+<rect x="640" y="130" width="480" height="220" rx="18"
+fill="url(#card)"
+stroke="#7B2FF7"
+stroke-width="2"
+filter="url(#glow)">
+
+<animate attributeName="stroke"
+values="#7B2FF7;#00F5FF;#7B2FF7"
+dur="5s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<text x="670" y="180" class="head">
+📄 Resume Screening
+</text>
+
+<text x="670" y="220" class="desc">
+• ATS Score
+</text>
+
+<text x="670" y="250" class="desc">
+• Skill Matching
+</text>
+
+<text x="670" y="280" class="desc">
+• Resume Ranking
+</text>
+
+<text x="670" y="320" fill="#22C55E">
+Python • ML • Flask
+</text>
+
+<!-- Card 3 -->
+
+<rect x="80" y="420" width="480" height="220" rx="18"
+fill="url(#card)"
+stroke="#22C55E"
+stroke-width="2"
+filter="url(#glow)">
+
+<animate attributeName="stroke"
+values="#22C55E;#00F5FF;#22C55E"
+dur="4s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<text x="110" y="470" class="head">
+🌾 Agrisense
+</text>
+
+<text x="110" y="510" class="desc">
+• Crop Recommendation
+</text>
+
+<text x="110" y="540" class="desc">
+• Disease Detection
+</text>
+
+<text x="110" y="570" class="desc">
+• Smart Farming
+</text>
+
+<text x="110" y="610" fill="#22C55E">
+Python • TensorFlow
+</text>
+
+<!-- Card 4 -->
+
+<rect x="640" y="420" width="480" height="220" rx="18"
+fill="url(#card)"
+stroke="#FF0080"
+stroke-width="2"
+filter="url(#glow)">
+
+<animate attributeName="stroke"
+values="#FF0080;#00F5FF;#FF0080"
+dur="4s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<text x="670" y="470" class="head">
+💬 AI Chatbot
+</text>
+
+<text x="670" y="510" class="desc">
+• Gemini API
+</text>
+
+<text x="670" y="540" class="desc">
+• Intelligent Responses
+</text>
+
+<text x="670" y="570" class="desc">
+• Python Assistant
+</text>
+
+<text x="670" y="610" fill="#22C55E">
+Python • Gemini API
+</text>
+
+</svg>

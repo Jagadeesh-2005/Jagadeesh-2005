@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="650"
+     viewBox="0 0 1200 650">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#050816"/>
+<stop offset="100%" stop-color="#111827"/>
+</linearGradient>
+
+<linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#1E293B"/>
+<stop offset="100%" stop-color="#0F172A"/>
+</linearGradient>
+
+<filter id="glow">
+<feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#00F5FF"/>
+</filter>
+
+<style><![CDATA[
+.title{
+fill:#00F5FF;
+font-size:42px;
+font-family:Segoe UI;
+font-weight:bold;
+}
+
+.label{
+fill:#94A3B8;
+font-size:18px;
+font-family:Consolas;
+}
+
+.value{
+fill:white;
+font-size:24px;
+font-family:Segoe UI;
+font-weight:bold;
+}
+
+.desc{
+fill:#CBD5E1;
+font-size:20px;
+font-family:Segoe UI;
+}
+]]></style>
+
+</defs>
+
+<rect width="1200" height="650" fill="url(#bg)"/>
+
+<text x="600"
+      y="60"
+      text-anchor="middle"
+      class="title">
+
+About Me
+
+</text>
+
+<!-- Main Card -->
+
+<rect
+x="80"
+y="110"
+width="1040"
+height="470"
+rx="22"
+fill="url(#card)"
+stroke="#00F5FF"
+stroke-width="2"
+filter="url(#glow)">
+
+<animate attributeName="stroke"
+values="#00F5FF;#7B2FF7;#FF0080;#00F5FF"
+dur="6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- Avatar -->
+
+<circle
+cx="220"
+cy="260"
+r="80"
+fill="#00F5FF"
+opacity=".15"/>
+
+<circle
+cx="220"
+cy="260"
+r="65"
+fill="#00F5FF">
+
+<animate attributeName="r"
+values="65;72;65"
+dur="3s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<text
+x="220"
+y="275"
+text-anchor="middle"
+font-size="56">
+
+👨‍💻
+
+</text>
+
+<!-- Name -->
+
+<text x="360" y="180" class="label">
+NAME
+</text>
+
+<text x="360" y="215" class="value">
+Jagadeesh
+</text>
+
+<!-- Role -->
+
+<text x="360" y="260" class="label">
+ROLE
+</text>
+
+<text x="360" y="295" class="value">
+AI &amp; Machine Learning Engineer
+</text>
+
+<!-- College -->
+
+<text x="360" y="340" class="label">
+EDUCATION
+</text>
+
+<text x="360" y="375" class="value">
+B.Tech - Artificial Intelligence &amp; Machine Learning
+</text>
+
+<!-- College Name -->
+
+<text x="360" y="420" class="label">
+COLLEGE
+</text>
+
+<text x="360" y="455" class="value">
+VVIT
+</text>
+
+<!-- Mission -->
+
+<text
+x="120"
+y="540"
+class="desc">
+
+🚀 Building AI-powered software that solves real-world problems.
+
+</text>
+
+<!-- Decorative dots -->
+
+<circle cx="1040" cy="170" r="6" fill="#00F5FF">
+<animate attributeName="cy"
+values="170;150;170"
+dur="3s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1080" cy="250" r="6" fill="#FF0080">
+<animate attributeName="cy"
+values="250;230;250"
+dur="4s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1020" cy="330" r="6" fill="#7B2FF7">
+<animate attributeName="cy"
+values="330;350;330"
+dur="5s"
+repeatCount="indefinite"/>
+</circle>
+
+</svg>

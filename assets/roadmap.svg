@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#050816"/>
+<stop offset="100%" stop-color="#0F172A"/>
+</linearGradient>
+
+<linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00F5FF"/>
+<stop offset="100%" stop-color="#7B2FF7"/>
+</linearGradient>
+
+<style><![CDATA[
+.title{
+fill:#00F5FF;
+font-size:42px;
+font-family:Segoe UI;
+font-weight:bold;
+}
+
+.label{
+fill:white;
+font-size:22px;
+font-family:Segoe UI;
+}
+
+.percent{
+fill:#00F5FF;
+font-size:20px;
+font-family:Consolas;
+}
+]]></style>
+
+</defs>
+
+<rect width="1200" height="720" fill="url(#bg)"/>
+
+<text x="600" y="70" text-anchor="middle" class="title">
+2026 Learning Roadmap
+</text>
+
+<!-- Python -->
+
+<text x="100" y="150" class="label">Python</text>
+<rect x="300" y="130" width="700" height="26" rx="13" fill="#1E293B"/>
+<rect x="300" y="130" width="650" height="26" rx="13" fill="url(#bar)">
+<animate attributeName="width" values="0;650" dur="2s" fill="freeze"/>
+</rect>
+<text x="1020" y="150" class="percent">93%</text>
+
+<!-- Java -->
+
+<text x="100" y="220" class="label">Java</text>
+<rect x="300" y="200" width="700" height="26" rx="13" fill="#1E293B"/>
+<rect x="300" y="200" width="600" height="26" rx="13" fill="url(#bar)">
+<animate attributeName="width" values="0;600" dur="2.2s" fill="freeze"/>
+</rect>
+<text x="1020" y="220" class="percent">86%</text>
+
+<!-- Machine Learning -->
+
+<text x="100" y="290" class="label">Machine Learning</text>
+<rect x="300" y="270" width="700" height="26" rx="13" fill="#1E293B"/>
+<rect x="300" y="270" width="560" height="26" rx="13" fill="url(#bar)">
+<animate attributeName="width" values="0;560" dur="2.4s" fill="freeze"/>
+</rect>
+<text x="1020" y="290" class="percent">80%</text>
+
+<!-- Deep Learning -->
+
+<text x="100" y="360" class="label">Deep Learning</text>
+<rect x="300" y="340" width="700" height="26" rx="13" fill="#1E293B"/>
+<rect x="300" y="340" width="420" height="26" rx="13" fill="url(#bar)">
+<animate attributeName="width" values="0;420" dur="2.6s" fill="freeze"/>
+</rect>
+<text x="1020" y="360" class="percent">60%</text>
+
+<!-- DSA -->
+
+<text x="100" y="430" class="label">Data Structures &amp; Algorithms</text>
+<rect x="300" y="410" width="700" height="26" rx="13" fill="#1E293B"/>
+<rect x="300" y="410" width="500" height="26" rx="13" fill="url(#bar)">
+<animate attributeName="width" values="0;500" dur="2.8s" fill="freeze"/>
+</rect>
+<text x="1020" y="430" class="percent">72%</text>
+
+<!-- System Design -->
+
+<text x="100" y="500" class="label">System Design</text>
+<rect x="300" y="480" width="700" height="26" rx="13" fill="#1E293B"/>
+<rect x="300" y="480" width="300" height="26" rx="13" fill="url(#bar)">
+<animate attributeName="width" values="0;300" dur="3s" fill="freeze"/>
+</rect>
+<text x="1020" y="500" class="percent">43%</text>
+
+<!-- Cloud -->
+
+<text x="100" y="570" class="label">Cloud Computing</text>
+<rect x="300" y="550" width="700" height="26" rx="13" fill="#1E293B"/>
+<rect x="300" y="550" width="220" height="26" rx="13" fill="url(#bar)">
+<animate attributeName="width" values="0;220" dur="3.2s" fill="freeze"/>
+</rect>
+<text x="1020" y="570" class="percent">32%</text>
+
+<text
+x="600"
+y="660"
+text-anchor="middle"
+fill="#94A3B8"
+font-size="22"
+font-family="Segoe UI">
+Learning Never Stops 🚀
+</text>
+
+</svg>

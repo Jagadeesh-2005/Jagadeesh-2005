@@ -1,0 +1,33 @@
+name: Update Developer Quote
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Random Quote
+        run: |
+          mkdir -p assets
+          curl -s https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight -o assets/dev-quote.svg
+
+      - name: Commit Updated Quote
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/dev-quote.svg
+
+          git diff --staged --quiet || git commit -m "🔄 Update developer quote"
+
+          git push

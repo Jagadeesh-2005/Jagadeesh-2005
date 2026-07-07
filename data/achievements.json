@@ -1,0 +1,112 @@
+{
+  "owner": "Jagadeesh",
+
+  "careerGoal": {
+    "title": "AI Engineer",
+    "companyType": "Product-Based Company",
+    "targetYear": 2027
+  },
+
+  "achievements": [
+    {
+      "title": "AI Interview Coach",
+      "type": "Project",
+      "status": "Completed",
+      "year": 2026,
+      "description": "Built an AI-powered interview preparation platform with resume analysis, ATS scoring, AI-generated questions, answer evaluation, and performance reports."
+    },
+    {
+      "title": "Smart Resume Screening System",
+      "type": "Project",
+      "status": "Completed",
+      "year": 2026,
+      "description": "Developed an ATS-based resume screening application with machine learning and job recommendation features."
+    },
+    {
+      "title": "Agrisense",
+      "type": "Project",
+      "status": "Completed",
+      "year": 2026,
+      "description": "Created an AI-powered smart farming assistant with crop recommendation and plant disease detection."
+    },
+    {
+      "title": "AI Chatbot",
+      "type": "Project",
+      "status": "Completed",
+      "year": 2026,
+      "description": "Built an intelligent chatbot using the Gemini API."
+    },
+    {
+      "title": "GitHub Portfolio",
+      "type": "Open Source",
+      "status": "Active",
+      "year": 2026,
+      "description": "Designed an advanced animated GitHub profile using SVG, GitHub Actions, and automation."
+    }
+  ],
+
+  "learningMilestones": [
+    {
+      "title": "500+ DSA Problems",
+      "progress": 35,
+      "target": 500
+    },
+    {
+      "title": "10 AI Projects",
+      "progress": 4,
+      "target": 10
+    },
+    {
+      "title": "Open Source Contributions",
+      "progress": 10,
+      "target": 100
+    },
+    {
+      "title": "GitHub Followers",
+      "progress": 50,
+      "target": 1000
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Python Programming",
+      "status": "Completed"
+    },
+    {
+      "name": "Machine Learning",
+      "status": "In Progress"
+    },
+    {
+      "name": "Deep Learning",
+      "status": "Planned"
+    },
+    {
+      "name": "AWS Cloud",
+      "status": "Planned"
+    }
+  ],
+
+  "futureGoals": [
+    "Become an AI Engineer",
+    "Master Large Language Models",
+    "Learn MLOps",
+    "Contribute to Open Source",
+    "Build SaaS AI Products",
+    "Reach 1000 GitHub Followers",
+    "Publish Technical Blogs",
+    "Crack Product-Based Company Interviews"
+  ],
+
+  "badges": [
+    "AI Developer",
+    "Machine Learning",
+    "Python",
+    "Java",
+    "Flask",
+    "TensorFlow",
+    "GitHub",
+    "Open Source",
+    "DSA"
+  ]
+}

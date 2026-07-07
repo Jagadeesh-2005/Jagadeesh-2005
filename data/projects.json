@@ -1,0 +1,72 @@
+{
+  "projects": [
+    {
+      "name": "AI Interview Coach",
+      "description": "AI-powered mock interview platform with resume analysis, ATS scoring, and intelligent interview question generation.",
+      "status": "Active",
+      "language": "Python",
+      "framework": "Flask",
+      "repository": "https://github.com/Jagadeesh-2005/AI-Interview-Coach",
+      "tech": [
+        "Python",
+        "Flask",
+        "Gemini API",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Smart Resume Screening System",
+      "description": "ATS resume screening system using Machine Learning with skill matching and recommendation engine.",
+      "status": "Completed",
+      "language": "Python",
+      "framework": "Flask",
+      "repository": "https://github.com/Jagadeesh-2005/Smart-Resume-Screening-System",
+      "tech": [
+        "Python",
+        "Flask",
+        "Machine Learning",
+        "Scikit-Learn"
+      ]
+    },
+    {
+      "name": "Agrisense",
+      "description": "Smart farming assistant with crop recommendation and plant disease detection.",
+      "status": "Completed",
+      "language": "Python",
+      "framework": "TensorFlow",
+      "repository": "https://github.com/Jagadeesh-2005/Agrisense",
+      "tech": [
+        "Python",
+        "TensorFlow",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "AI Chatbot",
+      "description": "Conversational chatbot powered by Gemini API.",
+      "status": "Active",
+      "language": "Python",
+      "framework": "Gemini",
+      "repository": "https://github.com/Jagadeesh-2005/AI-Chatbot",
+      "tech": [
+        "Python",
+        "Gemini API"
+      ]
+    },
+    {
+      "name": "DSA Repository",
+      "description": "Optimized Java and Python solutions for Data Structures and Algorithms.",
+      "status": "Active",
+      "language": "Java",
+      "framework": "Algorithms",
+      "repository": "https://github.com/Jagadeesh-2005/DSA",
+      "tech": [
+        "Java",
+        "Python",
+        "DSA"
+      ]
+    }
+  ]
+}

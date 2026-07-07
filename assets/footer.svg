@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1600"
+     height="300"
+     viewBox="0 0 1600 300">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#050816"/>
+<stop offset="100%" stop-color="#111827"/>
+</linearGradient>
+
+<linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00F5FF"/>
+<stop offset="50%" stop-color="#7B2FF7"/>
+<stop offset="100%" stop-color="#FF0080"/>
+</linearGradient>
+
+<filter id="glow">
+<feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#00F5FF"/>
+</filter>
+
+<style><![CDATA[
+.title{
+fill:white;
+font-size:42px;
+font-family:Segoe UI;
+font-weight:bold;
+}
+
+.sub{
+fill:#94A3B8;
+font-size:20px;
+font-family:Segoe UI;
+}
+
+.icon{
+font-size:34px;
+}
+]]></style>
+
+</defs>
+
+<rect width="1600" height="300" fill="url(#bg)"/>
+
+<!-- Stars -->
+
+<circle cx="120" cy="40" r="2" fill="white"/>
+<circle cx="400" cy="90" r="2" fill="white"/>
+<circle cx="820" cy="60" r="2" fill="white"/>
+<circle cx="1200" cy="70" r="2" fill="white"/>
+<circle cx="1500" cy="40" r="2" fill="white"/>
+
+<!-- Title -->
+
+<text
+x="800"
+y="90"
+text-anchor="middle"
+class="title"
+filter="url(#glow)">
+
+Thanks for Visiting 🚀
+
+</text>
+
+<!-- Subtitle -->
+
+<text
+x="800"
+y="130"
+text-anchor="middle"
+class="sub">
+
+Keep Learning • Keep Building • Keep Growing
+
+</text>
+
+<!-- Icons -->
+
+<text x="650" y="190" class="icon">💻</text>
+<text x="730" y="190" class="icon">🤖</text>
+<text x="810" y="190" class="icon">☕</text>
+<text x="890" y="190" class="icon">🐍</text>
+<text x="970" y="190" class="icon">🚀</text>
+
+<!-- Animated Wave -->
+
+<path
+fill="url(#wave)"
+opacity=".85">
+
+<animate attributeName="d"
+dur="6s"
+repeatCount="indefinite"
+
+values="
+M0,250 C250,220 450,280 700,250 C950,220 1200,280 1600,250 L1600,300 L0,300 Z;
+
+M0,260 C250,290 450,210 700,260 C950,290 1200,210 1600,260 L1600,300 L0,300 Z;
+
+M0,250 C250,220 450,280 700,250 C950,220 1200,280 1600,250 L1600,300 L0,300 Z
+"/>
+
+</path>
+
+</svg>

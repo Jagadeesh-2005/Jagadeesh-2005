@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#050816"/>
+<stop offset="100%" stop-color="#0F172A"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="5" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+<style><![CDATA[
+.node{
+fill:#00F5FF;
+filter:url(#glow);
+}
+.label{
+fill:white;
+font-size:18px;
+font-family:Segoe UI;
+font-weight:bold;
+}
+.line{
+stroke:#00F5FF;
+stroke-width:2;
+opacity:.5;
+}
+]]></style>
+
+</defs>
+
+<rect width="1200" height="700" fill="url(#bg)"/>
+
+<text
+x="600"
+y="60"
+text-anchor="middle"
+font-size="38"
+fill="#00F5FF"
+font-family="Segoe UI"
+font-weight="bold">
+
+Tech Universe
+
+</text>
+
+<!-- Connections -->
+
+<line class="line" x1="600" y1="350" x2="350" y2="180"/>
+<line class="line" x1="600" y1="350" x2="850" y2="180"/>
+<line class="line" x1="600" y1="350" x2="270" y2="340"/>
+<line class="line" x1="600" y1="350" x2="930" y2="340"/>
+<line class="line" x1="600" y1="350" x2="350" y2="540"/>
+<line class="line" x1="600" y1="350" x2="850" y2="540"/>
+
+<line class="line" x1="350" y1="180" x2="270" y2="340"/>
+<line class="line" x1="850" y1="180" x2="930" y2="340"/>
+<line class="line" x1="350" y1="540" x2="270" y2="340"/>
+<line class="line" x1="850" y1="540" x2="930" y2="340"/>
+
+<!-- Center -->
+
+<circle class="node" cx="600" cy="350" r="35">
+<animate attributeName="r" values="35;42;35" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<text class="label" x="600" y="356" text-anchor="middle">AI</text>
+
+<!-- Python -->
+
+<circle class="node" cx="350" cy="180" r="25">
+<animate attributeName="fill" values="#00F5FF;#00FFAA;#00F5FF" dur="3s" repeatCount="indefinite"/>
+</circle>
+
+<text class="label" x="350" y="185" text-anchor="middle">Python</text>
+
+<!-- Java -->
+
+<circle class="node" cx="850" cy="180" r="25">
+<animate attributeName="fill" values="#00F5FF;#7B2FF7;#00F5FF" dur="3s" repeatCount="indefinite"/>
+</circle>
+
+<text class="label" x="850" y="185" text-anchor="middle">Java</text>
+
+<!-- Flask -->
+
+<circle class="node" cx="270" cy="340" r="25">
+<animate attributeName="r" values="25;30;25" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+
+<text class="label" x="270" y="345" text-anchor="middle">Flask</text>
+
+<!-- TensorFlow -->
+
+<circle class="node" cx="930" cy="340" r="25">
+<animate attributeName="r" values="25;30;25" dur="2.8s" repeatCount="indefinite"/>
+</circle>
+
+<text class="label" x="930" y="345" text-anchor="middle">TensorFlow</text>
+
+<!-- Git -->
+
+<circle class="node" cx="350" cy="540" r="25">
+<animate attributeName="fill" values="#00F5FF;#FF0080;#00F5FF" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+<text class="label" x="350" y="545" text-anchor="middle">Git</text>
+
+<!-- MySQL -->
+
+<circle class="node" cx="850" cy="540" r="25">
+<animate attributeName="fill" values="#00F5FF;#FFD700;#00F5FF" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+<text class="label" x="850" y="545" text-anchor="middle">MySQL</text>
+
+</svg>

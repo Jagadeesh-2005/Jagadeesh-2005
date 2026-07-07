@@ -1,0 +1,191 @@
+{
+  "year": 2026,
+
+  "goal": "Become an AI Engineer at a Product-Based Company",
+
+  "roadmap": [
+    {
+      "category": "Programming",
+      "items": [
+        {
+          "name": "Python",
+          "progress": 90,
+          "status": "Completed",
+          "priority": "High"
+        },
+        {
+          "name": "Java",
+          "progress": 85,
+          "status": "Completed",
+          "priority": "High"
+        }
+      ]
+    },
+
+    {
+      "category": "Data Structures & Algorithms",
+      "items": [
+        {
+          "name": "Arrays",
+          "progress": 100,
+          "status": "Completed",
+          "priority": "High"
+        },
+        {
+          "name": "Hashing",
+          "progress": 90,
+          "status": "Completed",
+          "priority": "High"
+        },
+        {
+          "name": "Linked List",
+          "progress": 80,
+          "status": "In Progress",
+          "priority": "High"
+        },
+        {
+          "name": "Trees",
+          "progress": 40,
+          "status": "Planned",
+          "priority": "High"
+        },
+        {
+          "name": "Graphs",
+          "progress": 20,
+          "status": "Planned",
+          "priority": "High"
+        },
+        {
+          "name": "Dynamic Programming",
+          "progress": 10,
+          "status": "Planned",
+          "priority": "High"
+        }
+      ]
+    },
+
+    {
+      "category": "Artificial Intelligence",
+      "items": [
+        {
+          "name": "Machine Learning",
+          "progress": 85,
+          "status": "Completed",
+          "priority": "High"
+        },
+        {
+          "name": "Deep Learning",
+          "progress": 65,
+          "status": "Learning",
+          "priority": "High"
+        },
+        {
+          "name": "Computer Vision",
+          "progress": 70,
+          "status": "Learning",
+          "priority": "Medium"
+        },
+        {
+          "name": "Large Language Models",
+          "progress": 60,
+          "status": "Learning",
+          "priority": "High"
+        },
+        {
+          "name": "RAG",
+          "progress": 35,
+          "status": "Planned",
+          "priority": "High"
+        }
+      ]
+    },
+
+    {
+      "category": "Development",
+      "items": [
+        {
+          "name": "Flask",
+          "progress": 90,
+          "status": "Completed",
+          "priority": "High"
+        },
+        {
+          "name": "React",
+          "progress": 45,
+          "status": "Learning",
+          "priority": "Medium"
+        },
+        {
+          "name": "REST APIs",
+          "progress": 80,
+          "status": "Completed",
+          "priority": "Medium"
+        }
+      ]
+    },
+
+    {
+      "category": "Cloud & DevOps",
+      "items": [
+        {
+          "name": "Docker",
+          "progress": 20,
+          "status": "Planned",
+          "priority": "Medium"
+        },
+        {
+          "name": "AWS",
+          "progress": 15,
+          "status": "Planned",
+          "priority": "Medium"
+        },
+        {
+          "name": "GitHub Actions",
+          "progress": 70,
+          "status": "Learning",
+          "priority": "Medium"
+        }
+      ]
+    },
+
+    {
+      "category": "Computer Science",
+      "items": [
+        {
+          "name": "System Design",
+          "progress": 40,
+          "status": "Learning",
+          "priority": "High"
+        },
+        {
+          "name": "Operating Systems",
+          "progress": 55,
+          "status": "Learning",
+          "priority": "Medium"
+        },
+        {
+          "name": "DBMS",
+          "progress": 75,
+          "status": "Completed",
+          "priority": "Medium"
+        },
+        {
+          "name": "Computer Networks",
+          "progress": 60,
+          "status": "Learning",
+          "priority": "Medium"
+        }
+      ]
+    }
+  ],
+
+  "milestones": [
+    "Solve 500+ DSA Problems",
+    "Build 10 AI Projects",
+    "Master Deep Learning",
+    "Learn LLM Development",
+    "Contribute to Open Source",
+    "Deploy Full Stack AI Applications",
+    "Crack Product-Based Company Interviews"
+  ]
+}

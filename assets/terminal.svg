@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#111827"/>
+<stop offset="100%" stop-color="#000000"/>
+</linearGradient>
+
+<filter id="shadow">
+<feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#00F5FF"/>
+</filter>
+
+</defs>
+
+<rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+
+<rect width="1200" height="45" rx="18" fill="#1F2937"/>
+
+<circle cx="30" cy="22" r="8" fill="#FF5F56"/>
+<circle cx="55" cy="22" r="8" fill="#FFBD2E"/>
+<circle cx="80" cy="22" r="8" fill="#27C93F"/>
+
+<text
+x="600"
+y="28"
+text-anchor="middle"
+fill="#D1D5DB"
+font-size="18"
+font-family="Consolas">
+
+terminal.exe
+
+</text>
+
+<!-- Prompt -->
+
+<text
+x="40"
+y="90"
+fill="#00F5FF"
+font-size="22"
+font-family="Consolas">
+
+PS C:\Jagadeesh&gt;
+
+</text>
+
+<!-- whoami -->
+
+<text
+x="40"
+y="135"
+fill="#ffffff"
+font-size="20"
+font-family="Consolas">
+
+&gt; whoami
+
+</text>
+
+<text
+x="220"
+y="135"
+fill="#22C55E"
+font-size="20"
+font-family="Consolas"
+filter="url(#shadow)">
+
+AI Engineer
+
+</text>
+
+<!-- project -->
+
+<text
+x="40"
+y="180"
+fill="#ffffff"
+font-size="20"
+font-family="Consolas">
+
+&gt; current_project
+
+</text>
+
+<text
+x="300"
+y="180"
+fill="#38BDF8"
+font-size="20"
+font-family="Consolas">
+
+Interview Coach AI
+
+</text>
+
+<!-- learning -->
+
+<text
+x="40"
+y="225"
+fill="#ffffff"
+font-size="20"
+font-family="Consolas">
+
+&gt; learning
+
+</text>
+
+<text
+x="220"
+y="225"
+fill="#FACC15"
+font-size="20"
+font-family="Consolas">
+
+LLMs | Deep Learning | System Design
+
+</text>
+
+<!-- tech -->
+
+<text
+x="40"
+y="270"
+fill="#ffffff"
+font-size="20"
+font-family="Consolas">
+
+&gt; tech_stack
+
+</text>
+
+<text
+x="250"
+y="270"
+fill="#A855F7"
+font-size="20"
+font-family="Consolas">
+
+Python • Java • Flask • TensorFlow
+
+</text>
+
+<!-- status -->
+
+<text
+x="40"
+y="315"
+fill="#ffffff"
+font-size="20"
+font-family="Consolas">
+
+&gt; status
+
+</text>
+
+<text
+x="180"
+y="315"
+fill="#22C55E"
+font-size="20"
+font-family="Consolas">
+
+Building Intelligent Applications
+
+</text>
+
+<!-- blinking cursor -->
+
+<rect
+x="545"
+y="300"
+width="12"
+height="22"
+fill="#00F5FF">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="1s"
+repeatCount="indefinite"/>
+
+</rect>
+
+</svg>

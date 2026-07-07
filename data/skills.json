@@ -1,0 +1,179 @@
+{
+  "owner": "Jagadeesh",
+
+  "categories": [
+    {
+      "name": "Programming Languages",
+      "skills": [
+        {
+          "name": "Python",
+          "level": 90,
+          "status": "Advanced",
+          "icon": "🐍"
+        },
+        {
+          "name": "Java",
+          "level": 85,
+          "status": "Advanced",
+          "icon": "☕"
+        },
+        {
+          "name": "C",
+          "level": 75,
+          "status": "Intermediate",
+          "icon": "💻"
+        },
+        {
+          "name": "JavaScript",
+          "level": 70,
+          "status": "Intermediate",
+          "icon": "🟨"
+        }
+      ]
+    },
+
+    {
+      "name": "Artificial Intelligence",
+      "skills": [
+        {
+          "name": "Machine Learning",
+          "level": 85,
+          "status": "Advanced",
+          "icon": "🤖"
+        },
+        {
+          "name": "Deep Learning",
+          "level": 70,
+          "status": "Learning",
+          "icon": "🧠"
+        },
+        {
+          "name": "LLMs",
+          "level": 65,
+          "status": "Learning",
+          "icon": "✨"
+        },
+        {
+          "name": "TensorFlow",
+          "level": 75,
+          "status": "Intermediate",
+          "icon": "🔥"
+        },
+        {
+          "name": "OpenCV",
+          "level": 70,
+          "status": "Intermediate",
+          "icon": "📷"
+        }
+      ]
+    },
+
+    {
+      "name": "Web Development",
+      "skills": [
+        {
+          "name": "HTML",
+          "level": 90,
+          "status": "Advanced",
+          "icon": "🌐"
+        },
+        {
+          "name": "CSS",
+          "level": 85,
+          "status": "Advanced",
+          "icon": "🎨"
+        },
+        {
+          "name": "Flask",
+          "level": 85,
+          "status": "Advanced",
+          "icon": "⚗️"
+        },
+        {
+          "name": "React",
+          "level": 45,
+          "status": "Learning",
+          "icon": "⚛️"
+        }
+      ]
+    },
+
+    {
+      "name": "Database",
+      "skills": [
+        {
+          "name": "MySQL",
+          "level": 80,
+          "status": "Intermediate",
+          "icon": "🗄️"
+        },
+        {
+          "name": "MongoDB",
+          "level": 60,
+          "status": "Learning",
+          "icon": "🍃"
+        }
+      ]
+    },
+
+    {
+      "name": "Tools",
+      "skills": [
+        {
+          "name": "Git",
+          "level": 85,
+          "status": "Advanced",
+          "icon": "🔧"
+        },
+        {
+          "name": "GitHub",
+          "level": 90,
+          "status": "Advanced",
+          "icon": "🐙"
+        },
+        {
+          "name": "VS Code",
+          "level": 95,
+          "status": "Expert",
+          "icon": "💙"
+        },
+        {
+          "name": "Linux",
+          "level": 65,
+          "status": "Learning",
+          "icon": "🐧"
+        }
+      ]
+    },
+
+    {
+      "name": "Core Computer Science",
+      "skills": [
+        {
+          "name": "Data Structures",
+          "level": 80,
+          "status": "Intermediate",
+          "icon": "📚"
+        },
+        {
+          "name": "Algorithms",
+          "level": 80,
+          "status": "Intermediate",
+          "icon": "⚡"
+        },
+        {
+          "name": "System Design",
+          "level": 45,
+          "status": "Learning",
+          "icon": "🏗️"
+        },
+        {
+          "name": "OOP",
+          "level": 90,
+          "status": "Advanced",
+          "icon": "🧩"
+        }
+      ]
+    }
+  ]
+}

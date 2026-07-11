@@ -429,28 +429,6 @@ Open Source
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jagadeesh-2005&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-
-
-# 📈 GitHub Metrics
-
-<p align="center">
-
-<img src="assets/github-metrics.svg" width="100%"/>
-
-</p>
-
----
-
 # 📊 Profile Summary
 
 <p align="center">

@@ -439,15 +439,7 @@ Open Source
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Jagadeesh-2005/Jagadeesh-2005/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 📈 GitHub Metrics
 
@@ -560,15 +552,7 @@ Sunday      ███████
 <!--                ACHIEVEMENTS                           -->
 <!-- ===================================================== -->
 
-# 🏆 Achievement Wall
 
-<p align="center">
-
-<img src="assets/achievements.svg" width="100%">
-
-</p>
-
----
 
 # 🎯 2026 Mission
 

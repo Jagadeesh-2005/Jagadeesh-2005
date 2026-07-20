@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>It is easier to change the specification to fit the program than vice versa.</h3>
-          <p>- Alan Perlis</p>
+          <h3>With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>

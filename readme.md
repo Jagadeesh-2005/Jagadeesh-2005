@@ -432,9 +432,7 @@ Open Source
 # 📊 Profile Summary
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jagadeesh-2005&theme=github_dark"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Jagadeesh-2005&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 <p align="center">

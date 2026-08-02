@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.</h3>
-          <p>- Butler Lampson</p>
+          <h3>Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.</h3>
+          <p>- Douglas Crockford</p>
         </div>
       </div>
     </foreignObject>

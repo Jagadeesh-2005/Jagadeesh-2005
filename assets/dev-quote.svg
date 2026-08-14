@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>A program that produces incorrect results twice as fast is infinitely slower.</h3>
-          <p>- John Ousterhout</p>
+          <h3>There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>

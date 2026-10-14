@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.</h3>
-          <p>- Charles Babbage</p>
+          <h3>Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.</h3>
+          <p>- Stan Kelly-Bootle</p>
         </div>
       </div>
     </foreignObject>

@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.</h3>
-          <p>- Alan Perlis</p>
+          <h3>Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.</h3>
+          <p>- Daniel T. Barry</p>
         </div>
       </div>
     </foreignObject>
